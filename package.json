@@ -15,7 +15,7 @@
     "server"
   ],
   "engines": {
-    "node": "8.*"
+    "node": "18.*"
   },
   "dependencies": {
     "archiver": "^5.1.0",
